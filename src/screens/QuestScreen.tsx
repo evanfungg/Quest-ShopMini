@@ -26,7 +26,7 @@ export function QuestScreen() {
           <Text style={{fontSize: 24, fontWeight: 'bold', marginBottom: 8, marginTop: 4}}>
             Your Quests
           </Text>
-          <Text style={{fontSize: 16, marginBottom: 16}}>
+          <Text style={{fontSize: 18, marginBottom: 16}}>
             Complete tasks to unlock achievements!
           </Text>
 
